@@ -1,0 +1,23 @@
+
+path: C:\Users\budhw\Desktop\CS\Data Science\CMU\SHREC 2021-20240124T073032Z-001\SHREC 2021\model_0  # dataset root dir
+train: images\train  # train images (relative to 'path')
+val: images\train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: background
+  1: 4V94
+  2: 4CR2
+  3: 1QVR
+  4: 1BXN
+  5: 3CF3
+  6: 1U6G
+  7: 3D2F
+  8: 2CG9
+  9: 3H84
+  10: 3GL1
+  11: 3QM1
+  12: 1S3X
+  13: 5MRC
+  14: vesicle
+  15: fiducial
