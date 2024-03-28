@@ -1,7 +1,7 @@
 
 path: C:\Users\budhw\Desktop\CS\Data Science\CMU\SHREC 2021-20240124T073032Z-001\SHREC 2021\model_0  # dataset root dir
 train: images\train  # train images (relative to 'path')
-val: images\train  # val images (relative to 'path')
+val: images\test  # val images (relative to 'path')
 
 # Classes
 names:
